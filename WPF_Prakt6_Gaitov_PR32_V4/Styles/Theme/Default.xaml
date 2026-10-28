@@ -1,0 +1,27 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="ButtonBackground" Color="#0DD8D4"/>
+    <SolidColorBrush x:Key="ButtonHover" Color="#005A3E"/>
+    <SolidColorBrush x:Key="ButtonPressed" Color="#457888"/>
+    <SolidColorBrush x:Key="ButtonForeground" Color="#FFFFFF"/>
+    <SolidColorBrush x:Key="ButtonBorder" Color="#123A9E"/>
+
+    <SolidColorBrush x:Key="LabelTextColor" Color="#A55AD3"/>
+    <SolidColorBrush x:Key="RadioButtonTextColor" Color="#3AA5AD"/>
+    <SolidColorBrush x:Key="RadioButtonIsCheked" Color="#5AA255"/>
+
+    <SolidColorBrush x:Key="CheckBoxEnabled" Color="#4C5AA0"/>
+    <SolidColorBrush x:Key="CheckBoxNoEnabled" Color="#55F3F5"/>
+
+    <SolidColorBrush x:Key="TextBlockEnabled" Color="#AADDFF"/>
+    <SolidColorBrush x:Key="TextBlockNoEnabled" Color="#AA050E"/>
+
+    <SolidColorBrush x:Key="ProcessBarGood" Color="#4AAA55"/>
+    <SolidColorBrush x:Key="ProcessBarNoGood" Color="#AAAEE0"/>
+
+    <SolidColorBrush x:Key="ComboBoxBackground" Color="#DDD2FF"/>
+    <SolidColorBrush x:Key="ComboBoxForeground" Color="#DDD233"/>
+    <SolidColorBrush x:Key="ComboBoxItemBackground" Color="#32D545"/>
+
+    <SolidColorBrush x:Key="Background2" Color="#FFFFFF"/>
+</ResourceDictionary>

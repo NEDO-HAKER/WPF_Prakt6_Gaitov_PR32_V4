@@ -1,0 +1,23 @@
+﻿<Application x:Class="WPF_Prakt6_Gaitov_PR32_V4.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPF_Prakt6_Gaitov_PR32_V4"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Styles/Theme/DarkTheme.xaml"/>
+                <ResourceDictionary Source="Styles/Theme/Default.xaml"/>
+                <ResourceDictionary Source="Styles/UI/TextBox.xaml"/>
+                <ResourceDictionary Source="Styles/UI/Background.xaml"/>
+                <ResourceDictionary Source="Styles/UI/Button.xaml"/>
+                <ResourceDictionary Source="Styles/UI/TextBlock.xaml"/>
+                <ResourceDictionary Source="Styles/UI/CheckBox.xaml"/>
+                <ResourceDictionary Source="Styles/UI/RadioButton.xaml"/>
+                <ResourceDictionary Source="Styles/UI/ComboBox.xaml"/>
+                <ResourceDictionary Source="Styles/UI/ProgressBar.xaml"/>
+                <ResourceDictionary Source="Styles/UI/Label.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

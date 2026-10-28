@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|c:\\users\\\u0430\u043B\u0435\u043D\u0430\\source\\repos\\wpf_prakt6_gaitov_pr32_v4\\wpf_prakt6_gaitov_pr32_v4\\styles\\theme\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|solutionrelative:wpf_prakt6_gaitov_pr32_v4\\styles\\theme\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|c:\\users\\\u0430\u043B\u0435\u043D\u0430\\source\\repos\\wpf_prakt6_gaitov_pr32_v4\\wpf_prakt6_gaitov_pr32_v4\\styles\\theme\\default.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|solutionrelative:wpf_prakt6_gaitov_pr32_v4\\styles\\theme\\default.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|c:\\users\\\u0430\u043B\u0435\u043D\u0430\\source\\repos\\wpf_prakt6_gaitov_pr32_v4\\wpf_prakt6_gaitov_pr32_v4\\styles\\ui\\checkbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|solutionrelative:wpf_prakt6_gaitov_pr32_v4\\styles\\ui\\checkbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|c:\\users\\\u0430\u043B\u0435\u043D\u0430\\source\\repos\\wpf_prakt6_gaitov_pr32_v4\\wpf_prakt6_gaitov_pr32_v4\\themehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|solutionrelative:wpf_prakt6_gaitov_pr32_v4\\themehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|c:\\users\\\u0430\u043B\u0435\u043D\u0430\\source\\repos\\wpf_prakt6_gaitov_pr32_v4\\wpf_prakt6_gaitov_pr32_v4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|solutionrelative:wpf_prakt6_gaitov_pr32_v4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|c:\\users\\\u0430\u043B\u0435\u043D\u0430\\source\\repos\\wpf_prakt6_gaitov_pr32_v4\\wpf_prakt6_gaitov_pr32_v4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|solutionrelative:wpf_prakt6_gaitov_pr32_v4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|c:\\users\\\u0430\u043B\u0435\u043D\u0430\\source\\repos\\wpf_prakt6_gaitov_pr32_v4\\wpf_prakt6_gaitov_pr32_v4\\styles\\ui\\progressbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|solutionrelative:wpf_prakt6_gaitov_pr32_v4\\styles\\ui\\progressbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|c:\\users\\\u0430\u043B\u0435\u043D\u0430\\source\\repos\\wpf_prakt6_gaitov_pr32_v4\\wpf_prakt6_gaitov_pr32_v4\\styles\\ui\\background.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|solutionrelative:wpf_prakt6_gaitov_pr32_v4\\styles\\ui\\background.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|c:\\users\\\u0430\u043B\u0435\u043D\u0430\\source\\repos\\wpf_prakt6_gaitov_pr32_v4\\wpf_prakt6_gaitov_pr32_v4\\styles\\ui\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|solutionrelative:wpf_prakt6_gaitov_pr32_v4\\styles\\ui\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|c:\\users\\\u0430\u043B\u0435\u043D\u0430\\source\\repos\\wpf_prakt6_gaitov_pr32_v4\\wpf_prakt6_gaitov_pr32_v4\\styles\\ui\\textblock.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|solutionrelative:wpf_prakt6_gaitov_pr32_v4\\styles\\ui\\textblock.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|c:\\users\\\u0430\u043B\u0435\u043D\u0430\\source\\repos\\wpf_prakt6_gaitov_pr32_v4\\wpf_prakt6_gaitov_pr32_v4\\styles\\ui\\textbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|solutionrelative:wpf_prakt6_gaitov_pr32_v4\\styles\\ui\\textbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|c:\\users\\\u0430\u043B\u0435\u043D\u0430\\source\\repos\\wpf_prakt6_gaitov_pr32_v4\\wpf_prakt6_gaitov_pr32_v4\\styles\\ui\\combobox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|solutionrelative:wpf_prakt6_gaitov_pr32_v4\\styles\\ui\\combobox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|c:\\users\\\u0430\u043B\u0435\u043D\u0430\\source\\repos\\wpf_prakt6_gaitov_pr32_v4\\wpf_prakt6_gaitov_pr32_v4\\styles\\ui\\label.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|solutionrelative:wpf_prakt6_gaitov_pr32_v4\\styles\\ui\\label.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|c:\\users\\\u0430\u043B\u0435\u043D\u0430\\source\\repos\\wpf_prakt6_gaitov_pr32_v4\\wpf_prakt6_gaitov_pr32_v4\\styles\\ui\\radiobutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE6312F-476A-490B-AABF-8BD845C53C91}|WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4.csproj|solutionrelative:wpf_prakt6_gaitov_pr32_v4\\styles\\ui\\radiobutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Background.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\Background.xaml",
+              "RelativeDocumentMoniker": "WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\Background.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\Background.xaml",
+              "RelativeToolTip": "WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\Background.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T10:38:13.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TextBox.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\TextBox.xaml",
+              "RelativeDocumentMoniker": "WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\TextBox.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\TextBox.xaml",
+              "RelativeToolTip": "WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\TextBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T10:19:51.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Label.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\Label.xaml",
+              "RelativeDocumentMoniker": "WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\Label.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\Label.xaml",
+              "RelativeToolTip": "WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\Label.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T09:51:51.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ComboBox.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\ComboBox.xaml",
+              "RelativeDocumentMoniker": "WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\ComboBox.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\ComboBox.xaml",
+              "RelativeToolTip": "WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\ComboBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T09:51:34.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProgressBar.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\ProgressBar.xaml",
+              "RelativeDocumentMoniker": "WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\ProgressBar.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\ProgressBar.xaml",
+              "RelativeToolTip": "WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\ProgressBar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T09:51:16.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RadioButton.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\RadioButton.xaml",
+              "RelativeDocumentMoniker": "WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\RadioButton.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\RadioButton.xaml",
+              "RelativeToolTip": "WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\RadioButton.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T09:50:48.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckBox.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\CheckBox.xaml",
+              "RelativeDocumentMoniker": "WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\CheckBox.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\CheckBox.xaml",
+              "RelativeToolTip": "WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\CheckBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T09:50:28.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TextBlock.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\TextBlock.xaml",
+              "RelativeDocumentMoniker": "WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\TextBlock.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\TextBlock.xaml",
+              "RelativeToolTip": "WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\TextBlock.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T09:48:47.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Button.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\Button.xaml",
+              "RelativeDocumentMoniker": "WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\Button.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\Button.xaml",
+              "RelativeToolTip": "WPF_Prakt6_Gaitov_PR32_V4\\Styles\\UI\\Button.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T09:38:15.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DarkTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\Styles\\Theme\\DarkTheme.xaml",
+              "RelativeDocumentMoniker": "WPF_Prakt6_Gaitov_PR32_V4\\Styles\\Theme\\DarkTheme.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\Styles\\Theme\\DarkTheme.xaml",
+              "RelativeToolTip": "WPF_Prakt6_Gaitov_PR32_V4\\Styles\\Theme\\DarkTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T09:35:27.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\Styles\\Theme\\Default.xaml",
+              "RelativeDocumentMoniker": "WPF_Prakt6_Gaitov_PR32_V4\\Styles\\Theme\\Default.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\Styles\\Theme\\Default.xaml",
+              "RelativeToolTip": "WPF_Prakt6_Gaitov_PR32_V4\\Styles\\Theme\\Default.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T09:35:11.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThemeHelper.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\ThemeHelper.cs",
+              "RelativeDocumentMoniker": "WPF_Prakt6_Gaitov_PR32_V4\\ThemeHelper.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\ThemeHelper.cs",
+              "RelativeToolTip": "WPF_Prakt6_Gaitov_PR32_V4\\ThemeHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:34:32.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_Prakt6_Gaitov_PR32_V4\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\MainWindow.xaml",
+              "RelativeToolTip": "WPF_Prakt6_Gaitov_PR32_V4\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T08:25:08.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_Prakt6_Gaitov_PR32_V4\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\WPF_Prakt6_Gaitov_PR32_V4\\WPF_Prakt6_Gaitov_PR32_V4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF_Prakt6_Gaitov_PR32_V4\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:25:07.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
